@@ -1,9 +1,9 @@
 import React from 'react';
-import './Featured.scss';
+import './Bfeatured.scss';
 
-const Featured = () => {
+const Bfeatured = () => {
     return (
-        <div className='featured'>
+        <div className='bfeatured'>
             <div className='container'>
                 <div className="left">
                     <h1>  Find the perfect <span>freelance</span> services for your business</h1>
@@ -30,4 +30,4 @@ const Featured = () => {
     )
 }
 
-export default Featured
+export default Bfeatured

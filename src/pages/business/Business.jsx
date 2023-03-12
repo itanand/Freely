@@ -1,17 +1,17 @@
 import React from 'react'
-import Featured from '../../components/featured/Featured';
+import Bfeatured from '../../components/bfetured/Bfeatured';
 import TrustedBy from '../../components/trustedBy/TrustedBy';
 import Slide from "../../components/slide/Slide";
 import CatCard from "../../components/catCard/CatCard";
 import ProjectCard from "../../components/projectCard/ProjectCard";
 import { cards, projects} from "../../data";
-import './Home.scss';
+import './Business.scss';
 import skill from "../../assets/skill.png";
 
-const Home = () => {
+const Business = () => {
   return (
     <div className='home'>
-        <Featured />
+        <Bfeatured />
         <TrustedBy  />
         <Slide slidesToShow={5} arrowsScroll={5}>
         {cards.map((card) => (
@@ -190,4 +190,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Business

@@ -30,7 +30,7 @@ const Navbar = () => {
     }
 
     return (
-        <div className={active || pathname !== "/" ? "navbar active" : "navbar"}>
+        <div className={active || pathname !== ("/" || "/business") ? "navbar active" : "navbar"}>
             <div className='container'>
                 <div className='logo'>
                     <Link to="/" className='link'>
@@ -39,7 +39,7 @@ const Navbar = () => {
                     <span className="dot">.</span>
                 </div>
                 <div className='links'>
-                    <span>Skillपुर @Business</span>
+                    <Link to="/business" className='link'>Skillपुर @Business</Link>
                     <span>Explore</span>
                     <span>English</span>
                     <span>Sign in</span>
@@ -68,7 +68,7 @@ const Navbar = () => {
             </div>
             {(active || pathname !== "/") && <><hr />
                 <div className='menu'>
-                    <Link className='link menuLink' to="/">
+                    <Link className='link menuLink' to="/gigs">
                         Graphics & Design
                     </Link>
                     <Link className='link' to="/">

@@ -10,6 +10,7 @@ import Messages from "./pages/messages/Messages";
 import Message from "./pages/message/Message";
 import MyGigs from "./pages/myGigs/MyGigs";
 import ErrorPage from "./pages/error/ErrorPage";
+import Business from "./pages/business/Business";
 
 import './App.scss';
 import {
@@ -62,6 +63,18 @@ function App() {
         {
           path: "/messages",
           element: <Messages />
+        },
+        {
+          path: "/message/:id",
+          element: <Message />
+        },
+        {
+          path: "/business",
+          element: <Business />
+        },
+        {
+          path: "/",
+          element: <Message />
         },
         {
           path: "/message/:id",

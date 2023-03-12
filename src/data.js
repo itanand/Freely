@@ -9,7 +9,7 @@ export const cards = [
       id: 2,
       title: "Logo Design",
       desc: "Build yor brand",
-      img: "https://images.pexels.com/photos/11295165/pexels-photo-11295165.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_305,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/logo-design-2x.png",
     },
     {
       id: 3,
@@ -113,10 +113,10 @@ export const cards = [
       id: 1,
       img: "https://images.pexels.com/photos/580151/pexels-photo-580151.jpeg?auto=compress&cs=tinysrgb&w=1600",
       pp: "https://images.pexels.com/photos/720598/pexels-photo-720598.jpeg?auto=compress&cs=tinysrgb&w=1600",
-      desc: "I will create ai art character from your images and prompts",
-      price: 59,
+      desc: "I will create Awesome Website for You.",
+      price: 1000,
       star: 5,
-      username: "Anna Bell",
+      username: "Anand Mohan",
     },
     {
       id: 2,
