@@ -47,6 +47,12 @@ export const cards = [
       desc: "Color you dreams",
       img: "https://images.pexels.com/photos/15032623/pexels-photo-15032623.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     },
+    {
+      id: 9,
+      title: "Illustration",
+      desc: "Color you dreams",
+      img: "https://images.pexels.com/photos/15032623/pexels-photo-15032623.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    },
   ];
 
   export const projects = [
@@ -101,6 +107,13 @@ export const cards = [
     },
     {
       id: 8,
+      img: "https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      pp: "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      cat: "Digital Marketing",
+      username: "Ward Brewer",
+    },
+    {
+      id: 9,
       img: "https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=1600",
       pp: "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cat: "Digital Marketing",
@@ -171,6 +184,15 @@ export const cards = [
       price: 89,
       star: 5,
       username: "Waverly Schaefer",
+    },
+    {
+      id: 8,
+      img: "https://images.pexels.com/photos/5490778/pexels-photo-5490778.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      pp: "https://images.pexels.com/photos/1699159/pexels-photo-1699159.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      desc: "I will create custom art using midjourney generator",
+      price: 110,
+      star: 4,
+      username: "Wilton Hunt",
     },
     {
       id: 8,

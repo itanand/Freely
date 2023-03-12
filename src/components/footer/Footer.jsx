@@ -68,7 +68,7 @@ function Footer() {
               <img src="/img/coin.png" alt="" />
               <span>INR</span>
             </div>
-            <img src="/img/accessibility.png" alt="" />
+            {/* <img src="/img/accessibility.png" alt="" /> */}
           </div>
         </div>
       </div>
