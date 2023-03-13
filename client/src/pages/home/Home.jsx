@@ -7,6 +7,7 @@ import ProjectCard from "../../components/projectCard/ProjectCard";
 import { cards, projects} from "../../data";
 import './Home.scss';
 import skill from "../../assets/skill.png";
+import Banner from '../../components/banner/Banner';
 
 const Home = () => {
   return (
@@ -53,6 +54,7 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <Banner />
       <div className="explore">
         <div className="container">
           <h1>Explore the marketplace</h1>
