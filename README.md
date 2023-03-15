@@ -2,7 +2,7 @@
 
 Skillpur is a Freelance platform, where anyone can post the Freelancing opportunity and anyone can get the job. 
 
-![TekHub Banner (1)](https://user-images.githubusercontent.com/72851613/207783151-1d2f19cf-afa4-477b-8823-dcabb86adbf5.png)
+![TekHub Banner (1)](https://github.com/itanand/Skillpur/blob/master/public/skillpurr.png?raw=true)
 
 <br/>
 
