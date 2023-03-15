@@ -22,5 +22,10 @@
     "eslint-plugin-react": "^7.32.2",
     "sass": "^1.59.2",
     "vite": "^4.1.0"
-  }
+  },
+  "description": "Skillpur is a Freelance platform, where anyone can post the Freelancing opportunity and anyone can get the job.",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
