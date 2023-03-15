@@ -77,11 +77,10 @@ We request all the people who wish to contribute to follow the set of guidelines
     
 <h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/CONTRIBUTING.md">⭐ CODE OF CONDUCT THAT NEEDS TO BE MAINTAINED</a></h5></br>
     
-<h5 align="center"><a href="https://github.com/itanand/Skillpur/main/rules/FrontendSetup.md">🛠 SETTING UP THE FRONTEND LOCALLY</a></h5>
+<h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/rules/Frontend.md">🛠 SETTING UP THE FRONTEND LOCALLY</a></h5>
     
-<h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/rules/BackendSetup.md">🛠 SETTING UP THE BACKEND LOCALLY</a></h5>
+<h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/rules/Backend.md">🛠 SETTING UP THE BACKEND LOCALLY</a></h5>
 
-<h5 align="center"><a href="https://github.com/IAmTamal/itanand/Skillpur/main/rules/DockerSetup.md">🛠 SETTING UP THE APP WITH DOCKER</a></h5>
 
 
 </br>
