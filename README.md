@@ -1,13 +1,13 @@
 # Skillpur-A-Freelancer-Platform
 
-Skillpur is a Freelance platform, where anyone can post the Freelancing opportunity and anyone can get the job. 
+Skillpur is a Open Sourse Freelance platform, where anyone can post the Freelancing opportunity and anyone can get the job. 
 
 ![TekHub Banner (1)](https://github.com/itanand/Skillpur/blob/master/public/skillpurr.png?raw=true)
 
 <br/>
 
 <h1 align="center">
-✨ A hub for help to get the client ✨ <br/>
+✨ A platform for help to get the client ✨ <br/>
 </h1>
 <h3 align="center">
 With Skillpur we help students, Freelancers, and Proffesionals to get their clients. <br/>
@@ -19,11 +19,11 @@ Join as a Freelancer, Company, Job Providers to help us make the world a better 
 <br>
 
 <h1 align="center">
-Why the name - 'Milan' ?
+Why the name - 'Skillpur' ?
 </h1>
 <br>
 <p align="center">
-The word ‘Skillpur’ when translated from its colloquial form into English means ‘conjugation’.
+The word ‘Skillpur’ when translated from its colloquial form into English means ‘Skills Hub’.
 It is often seen that people get scammed when their intentions are in lieu they were just trying to do good for other people, they were trying to extend their help. Again, it is seen that there are some Clubs or NGOs who do not get enough funds to work for humanitarian causes because of the lack of proper representation.
 </p>
 <br/>
@@ -88,7 +88,7 @@ We request all the people who wish to contribute to follow the set of guidelines
 
 
 <h1 align="center">
-Most active contributors 🚀
+Our Most active contributors 🚀
 </h1>
 
 <br>
@@ -102,12 +102,12 @@ Most active contributors 🚀
 
 
 <h1 align="center">
-Thank you everyone! 💚
+ThankS to everyone! 💚
 </h1>
 <br>
 
 <p align="center">
-A heartfelt thank you to those who have contributed to this project. We are really grateful towards your contribution. <br/> You all are amazing. Opensource for the win 🚀 </p>
+A heartfelt thank you to those who have contributed on this project. We are really grateful towards your contribution. <br/> You all are amazing peoples. Opensource for the win 🚀 </p>
 <br>
 
 <h1 align="center">
