@@ -1,6 +1,6 @@
 # Skillpur-A-Freelancer-Platform
 
-Skillpur - Connecting top talent with quality clients ❤ SkillPur - A platform for the Freelancers to connect with the Companies, Individuals, Charities and other orgs for a good projects.  Skillpur is an Open Sourse Freelancing platform, where anyone can post the Freelancing opportunity and anyone can easily get the job :) Please Visit [Skillpur](https://skillpur.vercel.app)
+Skillpur - Connecting top talent with quality clients ❤ SkillPur - A platform for the Freelancers to connect with the Companies, Individuals, and other orgs for a good projects.  Skillpur is an Open Sourse Freelancing platform, where anyone can post the Freelancing opportunity and anyone can easily get the job :) Please Visit [Skillpur](https://skillpur.vercel.app)
 
 ![Skillpur Image](https://user-images.githubusercontent.com/38817976/225311848-0d014510-92b3-4db0-84f5-3f331c56b036.png)
 
