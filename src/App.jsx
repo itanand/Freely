@@ -11,6 +11,7 @@ import Message from "./pages/message/Message";
 import MyGigs from "./pages/myGigs/MyGigs";
 import ErrorPage from "./pages/error/ErrorPage";
 import Business from "./pages/business/Business";
+import Education from "./pages/education/Education";
 
 import './App.scss';
 import {
@@ -71,6 +72,10 @@ function App() {
         {
           path: "/business",
           element: <Business />
+        },
+        {
+          path: "/education",
+          element: <Education />
         },
         {
           path: "/",
