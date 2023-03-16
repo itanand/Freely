@@ -40,7 +40,7 @@ const Navbar = () => {
                 </div>
                 <div className='links'>
                     <Link to="/business" className='link'>Skillपुर @Business</Link>
-                    <Link to="/education" className='link'>Skillपुर @Education</Link>
+                    <Link to="/education" className='link'>Education</Link>
                     <span>Explore</span>
                     <span>English</span>
                     <span>Sign in</span>
