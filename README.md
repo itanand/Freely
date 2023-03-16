@@ -1,6 +1,6 @@
 # Skillpur-A-Freelancer-Platform
 
-Skillpur - Connecting top talent with quality clients ❤ SkillPur - A platform for the Freelancers to connect with the Companies, Individuals, Charities and other orgs for a good projects.  Skillpur is an Open Sourse Freelancing platform, where anyone can post the Freelancing opportunity and anyone can easily get the job :) Please Visit [Skillpur](https://skillpur.vercel.app)
+Skillpur - Connecting top talent with quality clients ❤ SkillPur - A platform for the Freelancers to connect with the Companies, Individuals, and other orgs for a good projects.  Skillpur is an Open Sourse Freelancing platform, where anyone can post the Freelancing opportunity and anyone can easily get the job :) Please Visit [Skillpur](https://skillpur.vercel.app)
 
 ![Skillpur Image](https://user-images.githubusercontent.com/38817976/225311848-0d014510-92b3-4db0-84f5-3f331c56b036.png)
 
@@ -77,11 +77,10 @@ We request all the people who wish to contribute to follow the set of guidelines
     
 <h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/CONTRIBUTING.md">⭐ CODE OF CONDUCT THAT NEEDS TO BE MAINTAINED</a></h5></br>
     
-<h5 align="center"><a href="https://github.com/itanand/Skillpur/main/rules/FrontendSetup.md">🛠 SETTING UP THE FRONTEND LOCALLY</a></h5>
+<h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/rules/Frontend.md">🛠 SETTING UP THE FRONTEND LOCALLY</a></h5>
     
-<h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/rules/BackendSetup.md">🛠 SETTING UP THE BACKEND LOCALLY</a></h5>
+<h5 align="center"><a href="https://github.com/itanand/Skillpur/blob/main/rules/Backend.md">🛠 SETTING UP THE BACKEND LOCALLY</a></h5>
 
-<h5 align="center"><a href="https://github.com/IAmTamal/itanand/Skillpur/main/rules/DockerSetup.md">🛠 SETTING UP THE APP WITH DOCKER</a></h5>
 
 
 </br>
