@@ -39,9 +39,9 @@ function Footer() {
             <span>Community Standards</span>
           </div>
           <div className="item">
-            <h2>More From Skillपुर</h2>
-            <span>Skillपुर Business</span>
-            <span>Skillपुर Pro</span>
+            <h2>More From Freely</h2>
+            <span>Freely Business</span>
+            <span>Freely Pro</span>
             <span>Guides</span>
             <span>Get Inspired</span>
           </div>
@@ -49,8 +49,8 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>Skillपुर </h2>
-            <span>© Skillपुर Pvt. Ltd. 2023</span>
+            <h2>Freely </h2>
+            <span>© Freely Pvt. Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">
