@@ -1,16 +1,16 @@
-# Skillpur-A-Freelancer-Platform
+# Freely-A-Freelancer-Platform
 
-Skillpur - Connecting top talent with quality clients ❤ SkillPur - A platform for the Freelancers to connect with the Companies, Individuals, and other orgs for a good projects.  Skillpur is an Open Sourse Freelancing platform, where anyone can post the Freelancing opportunity and anyone can easily get the job :) Please Visit [Skillpur](https://skillpur.vercel.app)
+Freely - Connecting top talent with quality clients ❤ Freely - A platform for the Freelancers to connect with the Companies, Individuals, and other orgs for a good projects.  Skillpur is an Open Sourse Freelancing platform, where anyone can post the Freelancing opportunity and anyone can easily get the job :) Please Visit [Skillpur](https://skillpur.vercel.app)
 
-![Skillpur Image](https://user-images.githubusercontent.com/38817976/225311848-0d014510-92b3-4db0-84f5-3f331c56b036.png)
+![Freely Image](https://user-images.githubusercontent.com/38817976/225311848-0d014510-92b3-4db0-84f5-3f331c56b036.png)
 
 <br/>
 
 <h1 align="center">
-✨ A platform for help to get the client ✨ <br/>
+✨ An Open Source platform for Freelancers ✨ <br/>
 </h1>
 <h3 align="center">
-With Skillpur we help students, Freelancers, and Proffesionals to get their clients. <br/>
+With Freely we help students, Freelancers, and Proffesionals to get their clients. <br/>
 </h3>
 <br>
 <p align="center">
@@ -19,11 +19,11 @@ Join as a Freelancer, Company, Job Providers to help us make the world a better 
 <br>
 
 <h1 align="center">
-Why the name - 'Skillpur' ?
+Why the name - 'Freely' ?
 </h1>
 <br>
 <p align="center">
-The word ‘Skillpur’ when translated from its colloquial form into English means ‘Skills Hub’.
+The word ‘Freely’ when translated from its colloquial form into English means ‘Freelancers" .
 It is often seen that people get scammed when their intentions are in lieu they were just trying to do good for other people, they were trying to extend their help. Again, it is seen that there are some Clubs or NGOs who do not get enough funds to work for humanitarian causes because of the lack of proper representation.
 </p>
 <br/>
@@ -115,5 +115,5 @@ License
 <br>
 
 <p align="center">
-Skillpur is Licensed under the <a href="./LICENSE">MIT License</a>. Please go through the License atleast once before contributing. </p>
+Open-Source Freelance Platform is Licensed under the <a href="./LICENSE">MIT License</a>. Please go through the License atleast once before contributing. </p>
 
